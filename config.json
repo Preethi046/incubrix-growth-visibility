@@ -1,0 +1,6 @@
+{
+  "allow_external_collection": false,
+  "markets": ["US", "GB", "IN"],
+  "fourth_assistant": "Claude",
+  "targets": []
+}

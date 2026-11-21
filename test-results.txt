@@ -1,0 +1,29 @@
+test_brand_mention_is_not_citation (test_tracker.TrackerTests.test_brand_mention_is_not_citation) ... ok
+test_csv_exact_columns_and_incomplete (test_tracker.TrackerTests.test_csv_exact_columns_and_incomplete) ... ok
+test_day_market_attempts_preserved (test_tracker.TrackerTests.test_day_market_attempts_preserved) ... ok
+test_disabled_network_is_safe (test_tracker.TrackerTests.test_disabled_network_is_safe) ... ok
+test_full_grid_coverage (test_tracker.TrackerTests.test_full_grid_coverage) ... ok
+test_google_depth_and_explicit_answer_state (test_tracker.TrackerTests.test_google_depth_and_explicit_answer_state) ... ok
+test_google_report_answer_share (test_tracker.TrackerTests.test_google_report_answer_share) ... ok
+test_http_json_transport (test_tracker.TrackerTests.test_http_json_transport) ... ok
+test_import_errors_do_not_fake_success (test_tracker.TrackerTests.test_import_errors_do_not_fake_success) ... ok
+test_import_idempotency (test_tracker.TrackerTests.test_import_idempotency) ... ok
+test_malformed_json_logged_and_next_line_imports (test_tracker.TrackerTests.test_malformed_json_logged_and_next_line_imports) ... ok
+test_missing_and_outside_evidence_rejected (test_tracker.TrackerTests.test_missing_and_outside_evidence_rejected) ... ok
+test_model_api_not_consumer (test_tracker.TrackerTests.test_model_api_not_consumer) ... ok
+test_no_brand_forcing_prompt (test_tracker.TrackerTests.test_no_brand_forcing_prompt) ... ok
+test_question_dedup_merges_sources (test_tracker.TrackerTests.test_question_dedup_merges_sources) ... ok
+test_raw_written_and_evidence_hashed (test_tracker.TrackerTests.test_raw_written_and_evidence_hashed) ... ok
+test_report_rates_and_brief (test_tracker.TrackerTests.test_report_rates_and_brief) ... ok
+test_retry_error_logs_then_recovery_and_refresh (test_tracker.TrackerTests.test_retry_error_logs_then_recovery_and_refresh) ... ok
+test_timezone_required (test_tracker.TrackerTests.test_timezone_required) ... ok
+test_two_days_comparison (test_tracker.TrackerTests.test_two_days_comparison) ... ok
+test_unknown_not_negative (test_tracker.TrackerTests.test_unknown_not_negative) ... ok
+test_unsafe_question_id_rejected (test_tracker.TrackerTests.test_unsafe_question_id_rejected) ... ok
+test_unsourced_question_rejected (test_tracker.TrackerTests.test_unsourced_question_rejected) ... ok
+test_wrong_collector_surface_rejected (test_tracker.TrackerTests.test_wrong_collector_surface_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 24 tests in 7.158s
+
+OK
